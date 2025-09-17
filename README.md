@@ -1,7 +1,7 @@
 # 🚀 **AbstractInsight**  
-![Release](https://img.shields.io/github/v/release/abstractednick/AbstractedInsight?color=6f42c1)  
-![License](https://img.shields.io/github/license/yourusername/abstractinsight?color=2ea44f)  
-![Build](https://img.shields.io/github/actions/workflow/status/yourusername/abstractinsight/android.yml?label=Build&color=blue)
+![Release](https://img.shields.io/github/v/release/abstractednick/AbstractInsight?color=6f42c1)  
+![License](https://img.shields.io/github/license/abstractednick/AbstractInsight?color=2ea44f)  
+![Build](https://img.shields.io/github/actions/workflow/status/abstractednick/AbstractInsight/android.yml?label=Build&color=blue)
 
 > **Smart, privacy-first analytics library for Android. Deep behavioral data, gesture insights, and performance theory—reimagined.**
 
